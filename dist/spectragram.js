@@ -1,11 +1,6 @@
-/*
- * spectragram
- * https://github.com/adrianengine/jquery-spectragram
- *
- * Copyright (c) 2013 Adrian Quevedo
- * Licensed under the MIT license.
- */
-
+/*! Spectragram - v2.0.0 - 2013-08-07
+* https://github.com/adrianengine/jquery-spectragram
+* Copyright (c) 2013 Adrian Quevedo; Licensed MIT */
 (function($) {
 
   // Collection method.
